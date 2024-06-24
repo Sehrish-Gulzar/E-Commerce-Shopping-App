@@ -37,7 +37,7 @@ class AuthenticationRepository extends GetxController {
 
   /// Function to show relevant screen
   screenRedirect() async {
-    deviceStorage.writeIfNull('IsFistTime', true);
+    deviceStorage.writeIfNull('IsFirstTime', true);
 
     deviceStorage.read('IsFirstTime') != true
         ? Get.offAll(() => const LoginScreen())
