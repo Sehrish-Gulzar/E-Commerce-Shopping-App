@@ -36,8 +36,8 @@ class SubCategoriesScreen extends StatelessWidget {
                 height: SgSizes.spaceBtwSections,
               ),
               FutureBuilder(
-                  future:
-                      controller.getCategoryProducts(categoryId: category.id),
+                  future: controller.getAllCategoryProducts(
+                      categoryId: category.id),
                   builder: (context, snapshot) {
                     // Handle Loader, No Record OR Error Message
                     const loader = SgVerticalProductShimmer();

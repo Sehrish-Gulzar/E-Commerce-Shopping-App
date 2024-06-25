@@ -25,7 +25,7 @@ class ProductController extends GetxController {
     // BrandRepository().uploadDummyBrands(SgDummyData.brands);
     // // Upload Product Category
     // CategoryRepository()
-    //     .uploadDummyProductCategory(SgDummyData.productCategory);
+    // .uploadDummyProductCategory(SgDummyData.productCategory);
     // Upload Brand Category
     // CategoryRepository().uploadDummyBrandCategory(SgDummyData.brandCategory);
 
