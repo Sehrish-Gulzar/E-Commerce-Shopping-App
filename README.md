@@ -39,14 +39,14 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Home.jpg" alt="Home Screen" style="width: 20%;"/>
-  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Products%20by%20shoes%20category%20(2).jpg" alt="Products by category Screen" style="width: 20%;"/>
   <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Products%20by%20sandals%20category.jpg" alt="Products by category Screen" style="width:20%;"/>
  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Store%20Screen.jpg" alt="Store Screen" style="width: 20%;"/>
+    <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Product%20detail.jpg" alt="Products Details Screen" style="width:20%;"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Product%20detail.jpg" alt="Products Details Screen" style="width:20%;"/>
+
   <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Item%20in%20WishList.jpg" alt="WishList Screen" style="width: 20%;"/>
   <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Item%20in%20cart.jpg" alt="Cart Screen" style="width:20%;"/>
  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/order%20overview.jpg" alt="Order overview Screen" style="width:20%;"/>
