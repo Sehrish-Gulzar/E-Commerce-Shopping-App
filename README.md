@@ -18,18 +18,40 @@
 
 ## Screenshots
 
-- **Splash Screen**
-![Splash Screen](https://drive.google.com/file/d/1MQS4u2FoPqP_ai1tNPRbE7INGMyRaKWL/view?usp=sharing)
-- **OnBoarding Screen**
-- **User Login And Registration Screen**
-- **Email- Verification and Account Created Screen**
-- **Home Screen**
-- **Products By Category Screen**
-- **Products By Brand Screen**
-![Home Screen](https://drive.google.com/file/d/1MQS4u2FoPqP_ai1tNPRbE7INGMyRaKWL/view?usp=sharing)
-![Product Page](path_to_image)
-![Shopping Cart](path_to_image)
-![Dark Mode](path_to_image)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/light%20splash%20screen.jpg" alt="Splash Screen" style="width: 20%;"/>
+ </div>
+ 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Onboarding%20Screen%20(1).jpg" alt="OnBoarding Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Onboarding%20Screen%20(2).jpg" alt="OnBoarding Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Onboarding%20Screen%20(3).jpg" alt="OnBoarding Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/User%20Login%20Screen.jpg" alt="Login Screen" style="width: 20%;"/>
+ </div>
+ 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/User%20Registration%20Screen.jpg" alt="Registration Screen" style="width:20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/info%20process.jpg" alt="Info Process Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Verify%20Email.jpg" alt="Verify Email Screen" style="width: 20%;"/>
+ <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/account%20successfully%20created.jpg" alt="Account created Screen" style="width: 20%;"/>  
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Home.jpg" alt="Home Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Products%20by%20shoes%20category%20(2).jpg" alt="Products by category Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Products%20by%20sandals%20category.jpg" alt="Products by category Screen" style="width:20%;"/>
+ <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Store%20Screen.jpg" alt="Home Screen" style="width: 20%;"/>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Item%20in%20WishList.jpg" alt="Products by category Screen" style="width: 20%;"/>
+  <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/Item%20in%20cart.jpg" alt="Products by category Screen" style="width:20%;"/>
+ <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/order%20overview.jpg" alt="Products by category Screen" style="width:20%;"/>
+     <img src="https://github.com/Sehrish-Gulzar/E-Commerce-Shopping-App/blob/main/assets/images/content/profile%20screen.jpg" alt="Products by category Screen" style="width:20%;"/>
+
+
+</div>
 
 ## LinkedIn Video Post
 
